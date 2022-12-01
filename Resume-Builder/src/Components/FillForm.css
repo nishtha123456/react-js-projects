@@ -1,0 +1,82 @@
+input{
+            
+    margin-left: 20px;
+}
+label{
+    width: 5cm;
+    
+}
+.container{
+    background-color: white;
+}
+label {
+    height: 10px;
+    line-height: 1cm;
+    width: 10px;
+    background-color:none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+h1{
+  text-align: center;
+  
+}
+select{
+  height: 1cm;
+  width: 6cm;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+form{
+  padding-left: 10px;
+   margin-top: 10px;
+    margin-left:300px;
+     background-color:#f7d3f4;width:50%;
+  height: auto;
+  border-radius:50px;
+  border-color: black;
+border: 5px solid black;
+
+overflow: auto;
+}
+.submit{
+   margin-left: 150px;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  background-color:rgb(206, 38, 150);color:white;font-weight: bolder;font-size:20px;
+    height:1cm;width:5cm;border-radius: 50px ;margin-left: 200px
+}
+
+
+footer {
+	text-align: center;
+	width: 100%;
+  height: 70px;
+	background-color:black;
+	color: wheat;
+  margin-top: 200px;
+  margin-bottom: 00px;
+  padding: 00px;
+  overflow:auto;
+}
+footer nav{
+  background-color: black;
+}
+footer ul{
+  list-style: none;
+}
+
+footer a  {
+	color:wheat;
+
+}
+.logo{
+    margin-top: 00;  height:100px ;width: 150px;
+    background-color:#f7d3f4;
+    overflow: auto;
+      
+}

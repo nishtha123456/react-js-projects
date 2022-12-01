@@ -1,0 +1,37 @@
+
+*{
+    background:linear-gradient(to bottom,#dbb3d8 0,#d47ccd 100%);
+}
+.tamplates{
+    background:linear-gradient(to bottom,#dbb3d8 0,#d47ccd 100%);
+    margin: 00;
+    
+}
+.logo{
+    margin-top: 00;  height:100px ;width: 150px
+}
+.tamplates h1{
+    text-align:center
+}
+.ResumeTemplates{
+    background-color: #dbb3d8;
+}
+.ResumeTemplates ul{display: inline;list-style:none;}
+  li #resume1 img {
+    padding-top:00px;align-items: top;
+    padding:00;margin-top:00px; margin-left: 20px;
+    border:8px solid blue;
+    height: 20px;
+    width: 20px;
+
+}
+.tamplates ul{
+    margin-top: 100px; outline: 2px solid black; padding-top: 2px; text-align:left; 
+    width: 100%;height:50px;
+    background-color:blue;
+    color: #d47ccd;
+
+}
+.tamplates ul li{
+    color: #d47ccd;
+}
